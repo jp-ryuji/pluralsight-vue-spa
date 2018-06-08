@@ -1,0 +1,7 @@
+{
+  "name": "pluralsight-vue-spa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ryuji Eguchi <jp.ryuji@gmail.com>",
+  "license": "MIT"
+}
