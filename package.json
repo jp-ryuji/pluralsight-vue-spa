@@ -5,6 +5,7 @@
   "author": "Ryuji Eguchi <jp.ryuji@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.16.3",
     "vue": "^2.5.16"
   }
 }
